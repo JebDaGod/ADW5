@@ -1,7 +1,7 @@
 {
   "name": "assignment4",
   "version": "1.0.0",
-  "description": "",
+  "description": "This repository contains your starter code for the Books API assignment.",
   "main": "index.js",
   "directories": {
     "test": "tests"
@@ -15,10 +15,18 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.2.1"
   },
   "devDependencies": {
     "jest": "^30.0.3",
     "supertest": "^7.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JebDaGod/ADW5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JebDaGod/ADW5/issues"
+  },
+  "homepage": "https://github.com/JebDaGod/ADW5#readme"
 }
